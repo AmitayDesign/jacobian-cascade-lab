@@ -1,0 +1,47 @@
+{
+ "length_cap": 8,
+ "ball_size": 6069,
+ "exhausted": true,
+ "seconds": 23.5,
+ "membership": {
+  "AK(2)": true,
+  "AK(3)": false,
+  "MS(1,xyXYY)": true
+ },
+ "AK2_chain_length": 7,
+ "AK2_chain": [
+  [
+   "X",
+   "Y"
+  ],
+  [
+   "Xy",
+   "Y"
+  ],
+  [
+   "Xy",
+   "Xyy"
+  ],
+  [
+   "XyXyy",
+   "Xyy"
+  ],
+  [
+   "XYxyXy",
+   "XyXyy"
+  ],
+  [
+   "XYxYYxy",
+   "XYxyXy"
+  ],
+  [
+   "XXyyy",
+   "XYxYYxy"
+  ],
+  [
+   "XXyyy",
+   "XYXyxy"
+  ]
+ ],
+ "notes": "Cap-10 partial ball (74086 states): AK(3) still unreachable. AK(3) therefore requires an intermediate relator of length >= 9 in any AC-trivialization (cap-8 exhaustive) — consistent with its status as prime suspect counterexample."
+}
