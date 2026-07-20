@@ -1,0 +1,14 @@
+{
+ "audit": {
+  "sylvester": "668/4=167 odd => no doubling chain (334 % 4 != 0, no H(334))",
+  "paley_I_q_plus_1": "{'q': 667, 'factor': {23: 1, 29: 1}, 'prime_power': False}",
+  "paley_II_2(q+1)": "{'q': 333, 'factor': {3: 2, 37: 1}, 'prime_power': False}",
+  "167_mod_4": "3"
+ },
+ "selftest_n7_energy_reached": 0,
+ "williamson_167": {
+  "best_energy": 12704,
+  "iterations": 991339,
+  "found": false
+ }
+}
