@@ -1,0 +1,16 @@
+{
+  "vertices": 510,
+  "edges": 2504,
+  "k4_sat": false,
+  "k4_solve_seconds": 315.4,
+  "k4_proof_lines": 1837100,
+  "drat_trim_output_tail": [
+    "s VERIFIED",
+    "",
+    "c verification time: 187.390 seconds"
+  ],
+  "drat_trim_verified": true,
+  "drat_trim_seconds": 187.4,
+  "k5_sat": true,
+  "k5_coloring_valid": true
+}
