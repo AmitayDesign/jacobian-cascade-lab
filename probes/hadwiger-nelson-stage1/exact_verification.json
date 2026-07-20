@@ -1,0 +1,11 @@
+{
+  "vertices": 510,
+  "edges_listed": 2504,
+  "interval_candidate_unit_pairs": 2504,
+  "exact_proof_failures": [],
+  "unit_pairs_missing_from_edge_list": [],
+  "edges_that_are_not_unit": [],
+  "strict_udg_verified": true,
+  "interval_bits": 120,
+  "total_seconds": 8.4
+}
