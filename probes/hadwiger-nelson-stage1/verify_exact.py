@@ -19,7 +19,7 @@ from mpmath import iv
 from itertools import combinations
 
 def parse_mma(s):
-    py = re.sub(r"Sqrt\\[", "sqrt(", s)
+    py = re.sub(r"Sqrt\[", "sqrt(", s)
     out, depth = [], []
     i = 0
     while i < len(py):
